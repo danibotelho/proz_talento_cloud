@@ -18,7 +18,7 @@ def calculadora(num1, num2, operacao):
         if num2 != 0:
             return num1 / num2
         else:
-            return "Erro: Divisão por zero!"
+            return 
     else:
         return 0
     
